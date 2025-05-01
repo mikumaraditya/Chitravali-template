@@ -1,0 +1,1 @@
+# A simple HTML and CSS project to practice basic web development skills.
